@@ -1,0 +1,2 @@
+liboqs-python: https://github.com/open-quantum-safe/liboqs-python
+liboqs
